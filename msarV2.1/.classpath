@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.nebula.widgets.nattable.extension.poi-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.nebula.widgets.nattable.core_1.5.0.201703192131.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.ui.console.source_3.7.1.v20170728-0806.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.ui.editors_3.11.0.v20170202-1823.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.ui.editors.source_3.11.0.v20170202-1823.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.ui.ide_3.13.1.v20170822-1526.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.ui.navigator_3.7.0.v20170418-1342.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.ui.navigator.resources_3.6.1.v20170823-1443.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.nebula.widgets.nattable.core-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.nebula.widgets.nattable.extension.poi-0.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/org.eclipse.ui.console_3.7.1.v20170728-0806.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MSARecovery jars/ws4j-1.0.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/lda"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MS recovery tool/weka-3-8-3/weka-src.jar"/>
+	<classpathentry kind="lib" path="/Users/gaston.marquez/Documents/RIT/MS recovery tool/weka-3-8-3/weka.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
