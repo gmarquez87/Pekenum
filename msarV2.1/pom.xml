@@ -12,7 +12,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <dkpro.similarity.version>2.3.0</dkpro.similarity.version>
-        <jackson.version>2.9.5</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
     </properties>
     
     <dependencyManagement>
